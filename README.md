@@ -1,1 +1,1 @@
-# react-escola
+# Projeto escola
